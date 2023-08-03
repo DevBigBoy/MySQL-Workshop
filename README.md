@@ -1,1 +1,1 @@
-# SQL-AdventureWorks-Questions
+# MySQL
